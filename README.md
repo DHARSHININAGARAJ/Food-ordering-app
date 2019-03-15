@@ -1,1 +1,1 @@
-# Food-orderin-app
+# Food-ordering-app
