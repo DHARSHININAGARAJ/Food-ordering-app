@@ -2,7 +2,10 @@
 					ORDER FOOD
 ABSTRACT:
 	The purpose of this project is making an ordering food application based on Android with New Order, Order History, Order Status, Tracking Order, and Setting Profile features. This system allows the user to select the desired food items from the displayed menu. The user’s details are maintained confidential because it maintains a separate account for each user. User must sign up into the application with their phone number, name and password. If the user register their phone number with the application they can view the list of food items and hey can place their order. After selecting the food they can proceed to place the order. For ordering a food item the user must enter their address for delivery. After the order get placed they can check their order in the “order menu” for tracking their food details. They can also cancel their order before the order is accepted by the hotel. 
+	
 MODULES:
+
+
 REGISTER:
 When the customer wants to purchase dishes on the website, first, he needs to register an account by clicking “Sign Up” button to enter the register page, and then just filling in Phone number, Name and Password. If the customer register is successful, a page will display to inform the customer, also if there is a register fault, such as the Phone number already exists, a friendly warning message will be given on the register page. Note that in the register form, there is a validation function written to validate whether the information filled by the customer is valid or not. Only if all information is valid, the operation of register will be successful.
 SIGN IN:
